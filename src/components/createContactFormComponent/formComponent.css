@@ -1,0 +1,15 @@
+.generalForm {
+    margin: 5px;
+}
+
+input {
+    margin: 10px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    font-size: 18px;
+    float: right;
+}
